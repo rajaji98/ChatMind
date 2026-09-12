@@ -546,11 +546,17 @@ The interface includes:
 
 ## 🔐 Data & Privacy
 
-ChatMind uses a generated synthetic group-chat dataset for demonstration
-and evaluation.
+ChatMind uses a synthetic/mock group-chat dataset created
+specifically for this project.
 
-No private real-world conversations are required to run the project.
+The 4,569 messages are generated for demonstration and evaluation and do
+not represent real private conversations.
 
+The dataset includes fictional participants, realistic chat patterns,
+Hinglish, typos, and decision-based conversations to simulate a real
+group chat.
+
+No private WhatsApp, Telegram, or personal chat data is used.
 ------------------------------------------------------------------------
 
 ## 🧩 Why ChatMind?
