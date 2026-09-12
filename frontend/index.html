@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>ChatMind — Intelligent Chat Search</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <main class="app">
+
+        <!-- Header -->
+
+        <header class="header">
+
+            <div class="brand">
+
+                <div class="logo">
+                    🧠
+                </div>
+
+                <div>
+                    <h1>ChatMind</h1>
+                    <p>Search your conversations intelligently</p>
+                </div>
+
+            </div>
+
+            <div class="dataset-badge">
+                <strong>4,569</strong>
+                <span>messages</span>
+            </div>
+
+        </header>
+
+
+        <!-- Search -->
+
+        <section class="search-section">
+
+            <div class="search-box">
+
+                <input
+                    id="searchInput"
+                    type="text"
+                    placeholder="Ask anything about your conversations..."
+                    autocomplete="off"
+                >
+
+                <button id="searchButton">
+                    🔍 Search
+                </button>
+
+            </div>
+
+
+            <div class="examples">
+
+                <span>Try:</span>
+
+                <button class="example">
+                    When did everyone finally agree on our vacation?
+                </button>
+
+                <button class="example">
+                    What project did the group eventually choose?
+                </button>
+
+                <button class="example">
+                    What did Aman confirm about the presentation?
+                </button>
+
+            </div>
+
+        </section>
+
+
+        <!-- Status -->
+
+        <section class="results-header">
+
+            <div>
+                <span id="resultCount">Ready to search</span>
+            </div>
+
+            <div id="searchStatus"></div>
+
+        </section>
+
+
+        <!-- Results -->
+
+        <section id="resultsContainer">
+
+            <div class="empty-state">
+
+                <div class="empty-icon">
+                    💬
+                </div>
+
+                <h2>Search your group chat</h2>
+
+                <p>
+                    Ask a question naturally. ChatMind finds
+                    relevant messages even when the wording is different.
+                </p>
+
+            </div>
+
+        </section>
+
+    </main>
+
+
+    <script src="app.js"></script>
+
+</body>
+
+</html>

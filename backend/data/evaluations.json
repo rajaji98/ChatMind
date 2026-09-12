@@ -1,0 +1,246 @@
+[
+  {
+    "id": "q01",
+    "query": "What project did the group eventually choose?",
+    "type": "normal",
+    "expected_id": "msg_0641"
+  },
+  {
+    "id": "q02",
+    "query": "Which project was finalized?",
+    "type": "normal",
+    "expected_id": "msg_0641"
+  },
+  {
+    "id": "q03",
+    "query": "What did the group decide to build?",
+    "type": "normal",
+    "expected_id": "msg_0641"
+  },
+  {
+    "id": "q04",
+    "query": "What was the final project decision?",
+    "type": "normal",
+    "expected_id": "msg_0641"
+  },
+  {
+    "id": "q05",
+    "query": "What did the team settle on after discussing different trackers?",
+    "type": "normal",
+    "expected_id": "msg_0641"
+  },
+  {
+    "id": "q06",
+    "query": "What did Priya finalize for the project?",
+    "type": "normal",
+    "expected_id": "msg_0641"
+  },
+  {
+    "id": "q07",
+    "query": "Which idea was ultimately selected for the project?",
+    "type": "normal",
+    "expected_id": "msg_0641"
+  },
+  {
+    "id": "q08",
+    "query": "What solution did everyone agree to make?",
+    "type": "normal",
+    "expected_id": "msg_0641"
+  },
+
+  {
+    "id": "q09",
+    "query": "Which destination did the group settle on?",
+    "type": "normal",
+    "expected_id": "msg_1201"
+  },
+  {
+    "id": "q10",
+    "query": "What place did they finally fix for the trip?",
+    "type": "normal",
+    "expected_id": "msg_1201"
+  },
+  {
+    "id": "q11",
+    "query": "Where are they going on vacation?",
+    "type": "normal",
+    "expected_id": "msg_1201"
+  },
+  {
+    "id": "q12",
+    "query": "Who announced the final destination?",
+    "type": "normal",
+    "expected_id": "msg_1201"
+  },
+  {
+    "id": "q13",
+    "query": "What did everyone agree to for the getaway?",
+    "type": "normal",
+    "expected_id": "msg_1201"
+  },
+  {
+    "id": "q14",
+    "query": "When was the trip destination finalized?",
+    "type": "normal",
+    "expected_id": "msg_1201"
+  },
+  {
+    "id": "q15",
+    "query": "What was the final travel choice?",
+    "type": "normal",
+    "expected_id": "msg_1201"
+  },
+  {
+    "id": "q16",
+    "query": "What location did they lock for the trip?",
+    "type": "normal",
+    "expected_id": "msg_1201"
+  },
+
+  {
+    "id": "q17",
+    "query": "What was the final presentation topic?",
+    "type": "normal",
+    "expected_id": "msg_1533"
+  },
+  {
+    "id": "q18",
+    "query": "What did the group lock for Wednesday?",
+    "type": "normal",
+    "expected_id": "msg_1531"
+  },
+  {
+    "id": "q19",
+    "query": "What was decided about the slides?",
+    "type": "normal",
+    "expected_id": "msg_1531"
+  },
+  {
+    "id": "q20",
+    "query": "Who confirmed the renewable energy presentation?",
+    "type": "normal",
+    "expected_id": "msg_1533"
+  },
+  {
+    "id": "q21",
+    "query": "What did Aman confirm about the presentation?",
+    "type": "normal",
+    "expected_id": "msg_1533"
+  },
+  {
+    "id": "q22",
+    "query": "When did they finalize the presentation?",
+    "type": "normal",
+    "expected_id": "msg_1531"
+  },
+  {
+    "id": "q23",
+    "query": "What presentation was locked?",
+    "type": "normal",
+    "expected_id": "msg_1533"
+  },
+  {
+    "id": "q24",
+    "query": "Which subject did the presentation cover?",
+    "type": "normal",
+    "expected_id": "msg_1533"
+  },
+  {
+    "id": "q25",
+    "query": "Who said the presentation was locked?",
+    "type": "normal",
+    "expected_id": "msg_1533"
+  },
+  {
+    "id": "q26",
+    "query": "What did the group agree to present?",
+    "type": "normal",
+    "expected_id": "msg_1533"
+  },
+
+  {
+    "id": "q27",
+    "query": "Who proposed the productivity dashboard?",
+    "type": "normal",
+    "expected_id": "msg_0632"
+  },
+  {
+    "id": "q28",
+    "query": "What alternatives were discussed for the project?",
+    "type": "normal",
+    "expected_id": "msg_0625"
+  },
+  {
+    "id": "q29",
+    "query": "Who raised a concern about the project scope?",
+    "type": "normal",
+    "expected_id": "msg_0630"
+  },
+  {
+    "id": "q30",
+    "query": "What did Ankit say about keeping the project simple?",
+    "type": "normal",
+    "expected_id": "msg_0631"
+  },
+  {
+    "id": "q31",
+    "query": "Who asked whether everyone was okay with the dashboard?",
+    "type": "normal",
+    "expected_id": "msg_0637"
+  },
+  {
+    "id": "q32",
+    "query": "Who said the dashboard was practical?",
+    "type": "normal",
+    "expected_id": "msg_0640"
+  },
+
+  {
+    "id": "q33",
+    "query": "Where did the friends eventually settle for their getaway?",
+    "type": "hard",
+    "expected_id": "msg_1201"
+  },
+  {
+    "id": "q34",
+    "query": "Which build did the team ultimately settle on for tracking study habits?",
+    "type": "hard",
+    "expected_id": "msg_0641"
+  },
+  {
+    "id": "q35",
+    "query": "What subject was the group's slide deck ultimately secured around?",
+    "type": "hard",
+    "expected_id": "msg_1533"
+  },
+  {
+    "id": "q36",
+    "query": "What place did the group choose for their mountain escape?",
+    "type": "hard",
+    "expected_id": "msg_1201"
+  },
+  {
+    "id": "q37",
+    "query": "Which idea survived all the alternatives and became the group's selected build?",
+    "type": "hard",
+    "expected_id": "msg_0641"
+  },
+  {
+    "id": "q38",
+    "query": "What was the confirmed topic of the slides?",
+    "type": "hard",
+    "expected_id": "msg_1533"
+  },
+  {
+    "id": "q39",
+    "query": "What destination did they settle on for the holiday?",
+    "type": "hard",
+    "expected_id": "msg_1201"
+  },
+  {
+    "id": "q40",
+    "query": "What did the team end up building after considering several ideas?",
+    "type": "hard",
+    "expected_id": "msg_0641"
+  }
+]
